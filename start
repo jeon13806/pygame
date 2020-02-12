@@ -1,0 +1,7 @@
+from bs4 import BeautifulSoup
+import requests
+
+r1 = requests.get('')
+html = r1.text
+soup = BeautifulSoup(html,'html.parser')
+a=soup.select('****[class="****"]')
