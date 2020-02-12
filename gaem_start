@@ -1,0 +1,26 @@
+import pygame
+import time
+import random
+
+pygame.init()
+
+pygame.display.set_mode(   )
+
+
+
+while 1:
+	# for event in pygame.event.get():
+		# if event.type == pygame.QUIT:
+			# over=1
+		# if event.type == pygame.KEYDOWN:
+			# if event.key==pygame.K_UP:
+				# pass
+
+	
+	# ****.fill(  ) #게임 배경화면
+	# pygame.draw.rect( **** ,(0,0,0),[200,200,10,10])
+
+	# pygame.display.update() #화면 최신화
+	# clock.tick(30) #1초에 이 코드를 30번 반복
+
+
